@@ -1,9 +1,7 @@
-# MLH-AIML-HACK-WEEK
-A Hackathon for learning about AIML 
+# GWH-MLH-AIML-NLP
+Learning to build a simple NLP app
 
-1.Learnt how to use streamlit at a beginner level and also built a pokemon data visualizer tool using the same.
-  link->>"https://github.com/Somashekarbm/MLH-STREAMLIT-REPO"
-2.Building my first NLP app-
+**Building my first NLP app**-
   1.NLTK library-natural language toolkit
    installation - sudo pip install --user -U nltk
   2.all the packages needed are in requirements.txt file
